@@ -3,3 +3,4 @@ plotly
 palmerpenguins
 shiny
 shinywidgets
+seaborn
